@@ -3,10 +3,29 @@
   contents:
     - name: Full Name
       value: Omid Sadeghnezhad
-      value: Omid Sadeghnezhad
     - name: Date of Birth
       value: 2nd February 1997 
+      value: 2nd February 1997 
     - name: Languages
+      value: Reading, writing and speaking competencies for English, Native Persian.
+
+- title: Research Interests
+  type: list
+  contents:
+    - Generative Adversarial Networks and Diﬀusion models especially in computer vision and image processing ﬁelds
+    - Object Detection and Tracking models
+    - Image processing and computer vision
+    - Signal processing and analyzing
+  
+- title: Research Experience
+  type: list
+  contents:
+    - Evolutionary Algorithms and implementing Symbiotic Organisms Search algorithm (SOS) - <em> 2023 </em>
+    - GAN Developments survey and Analyze the Latent space. (Basic GAN, DCGAN ACGAN, WGAN, BigGAN, PGGAN, STYLEGAN, STYLEGAN2, StarGAN, SEAN) - <em> 2022 </em>
+    - Theories of Multimodal deep learning - <em> 2021 </em>
+    - Clothes virtual try-on models survey. (ACGPN, SwapNet, CP-VTON-PLUS) - <em> 2020 </em>
+    - Image harmonization and blending methods (Dovenet, DeepImageBlending), Brightness transfer (global and local transfer), color transfer methods (mean-std transfer, Lab mean transfer, and pdf transform), and color constancy with image to image translation (pix2pix, CycleGAN, and contrastive-unpaired-translation) - <em> 2020 </em>
+    - Image depth extractions (monoDepth, Pydnet) and salient object detection models (Basnet, U2Net, PoolNet, CPD) - <em> 2020 </em>
       value: Reading, writing and speaking competencies for English, Native Persian.
 
 - title: Research Interests
@@ -33,12 +52,7 @@
     - title: Master
       institution: K. N. Toosi University of Technology
       year: 2020-2023
-    - title: Master
-      institution: K. N. Toosi University of Technology
-      year: 2020-2023
       description:
-        - Artificial Intelligence.
-        - title: Seminar
         - Artificial Intelligence.
         - title: Seminar
           contents:
@@ -46,20 +60,12 @@
     - title: Bachelor
       institution: Shahrood University of Technology
       year: 2015-2020
-            - Generative Adversarial Networks (GAN) Survey
-    - title: Bachelor
-      institution: Shahrood University of Technology
-      year: 2015-2020
       description:
-        - Electrical and Electronics Engineering
         - Electrical and Electronics Engineering
 
 - title: Experience
   type: time_table
   contents:
-    - title: Machine Learning Engineer
-      institution: Parstech.Co
-      year:  2021-present
     - title: Machine Learning Engineer
       institution: Parstech.Co
       year:  2021-present
