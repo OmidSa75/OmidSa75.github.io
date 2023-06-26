@@ -101,7 +101,7 @@
     - title: Parstech Video Intelligent Assistant
       institution: <em> Intelligent Security Assistant </em>
       year: 2022-present
-      description: 
+      description:
         - AI assistance to process and analyze videos with modules like human detection, face recognition, and license plate recognition. I deeply worked on human detection and restriction area application, Camera handling and streaming, DevOps, and microservices of this application.
         - title: <b> Features </b>
           contents:
@@ -119,14 +119,14 @@
       year: 2022
       description:
         - Train a LipReading model on the Persian dataset.
-    
+
     - title: Personal Protective Equipment (PPE)
       institution: Implementation of a system to identify personal safety equipment
       year: 2021
-      description: 
+      description:
         - A program to identify workers’ safety equipment in workshop and construction environments, such as gloves, helmets, glasses, masks, safety vests, warning capabilities for people who enter prohibited areas, ﬁre detection, and identiﬁcation of work tools.
         - title: <b> Features </b>
-          contents: 
+          contents:
             - Human detection and tracking
             - Pose estimation to check human body status
             - Body part localizer for head, hands, and chest
@@ -137,41 +137,41 @@
     - title: Pressure Ulcer
       institution:
       year: 2021
-      description: 
+      description:
         - Analysis of pressure sensor data of hospital beds for prediction and diagnosis of bed sores.
         - title: <b> Features </b>
-          contents: 
+          contents:
             - Body Segmentation Models.
             - Pose estimation model for pressure sensor data
             - Video processing with OpenCV
             - Signal Capturing from human poses
-      
+
     - title: Cardiac Medical Data Augmentation
       institution:
       year: 2021
-      description: 
+      description:
         - Train ACGAN on real Cardiac Medical Data in order to generate fake data for augmentation.
 
     - title: Human localization
       institution:
       year: 2021
-      description: 
+      description:
         - In two categories of foreground and background images, it takes a personal image from the foreground, and in order to place it in the background image, it ﬁrst ﬁnds the right place then masks the image and places it in the background, and then corrects the color and light also improves the image by a model.
         - title: <b> Features </b>
-          contents: 
+          contents:
             - Depth Estimation
             - Image brightness correction & Color correction models
             - Object detection models to ﬁnd humans and other objects in the Image.
             - Image Perspective calculation
             - Image blending
-  
+
     - title: OCR
       institution:
       year: 2021
-      description: 
+      description:
         - Optical Character Recognition on German administrative forms.
         - title: <b> Features </b>
-          contents: 
+          contents:
             - Use tesseract and self-trained text recognition neural network.
             - Use Clustering algorithms to ﬁnd lines.
             - Use OpenCV and Image processing methods to ﬁnd information blocks.
