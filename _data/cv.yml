@@ -98,94 +98,15 @@
     - name: Misc.
     - value: >
             <span class="bubble" style="border-radius: 5px"> Multi Processing and Threading Programming </span>,
-            <span class="bubble" style="border-radius: 5px"> Managing Shared Memory </span>,
-            <span class="bubble" style="border-radius: 5px"> Implementing API </span>,
-            <span class="bubble" style="border-radius: 5px"> Task Queuing and Management </span>,
-            <span class="bubble" style="border-radius: 5px"> Image and Video Processing </span>,
-            <span class="bubble" style="border-radius: 5px"> Deep Neural Networks Implementation </span>,
-            <span class="bubble" style="border-radius: 5px"> Containerizing </span>,
-            <span class="bubble" style="border-radius: 5px"> Version Controling </span>
-
-- title: Projects
-  type: time_table
-  contents:
-    - title: Parstech Video Intelligent Assistant
-      institution: <em> Intelligent Security Assistant </em>
-      year: 2022-present
-      description:
-        - AI assistance to process and analyze videos with modules like human detection, face recognition, and license plate recognition. I deeply worked on human detection and restriction area application, Camera handling and streaming, DevOps, and microservices of this application.
-        - title: <b> Features </b>
-          contents:
-            - Human detection and tracking
-            - Video Processing with OpenCV
-            - FastAPI implementation for APIs
-            - Gstreamer and OpenCV cores for the Camera management service
-            - Task queueing and workﬂow management with Celery
-            - Containerized services
-            - In-Memory data transfer with Redis and python shared memory
-            - Multi-Processing and Multi-Threading features implemented
-
-    - title: LipReading model on Persian Dataset
-      institution:
-      year: 2022
-      description:
-        - Train a LipReading model on the Persian dataset.
-
-    - title: Personal Protective Equipment (PPE)
-      institution: Implementation of a system to identify personal safety equipment
-      year: 2021
-      description:
-        - A program to identify workers’ safety equipment in workshop and construction environments, such as gloves, helmets, glasses, masks, safety vests, warning capabilities for people who enter prohibited areas, ﬁre detection, and identiﬁcation of work tools.
-        - title: <b> Features </b>
-          contents:
-            - Human detection and tracking
-            - Pose estimation to check human body status
-            - Body part localizer for head, hands, and chest
-            - Equipment classiﬁers models
-            - Pipeline implementation to estimate human fall
-            - Faster functions with numba jit compiler
-
-    - title: Pressure Ulcer
-      institution:
-      year: 2021
-      description:
-        - Analysis of pressure sensor data of hospital beds for prediction and diagnosis of bed sores.
-        - title: <b> Features </b>
-          contents:
-            - Body Segmentation Models.
-            - Pose estimation model for pressure sensor data
-            - Video processing with OpenCV
-            - Signal Capturing from human poses
-
-    - title: Cardiac Medical Data Augmentation
-      institution:
-      year: 2021
-      description:
-        - Train ACGAN on real Cardiac Medical Data in order to generate fake data for augmentation.
-
-    - title: Human localization
-      institution:
-      year: 2021
-      description:
-        - In two categories of foreground and background images, it takes a personal image from the foreground, and in order to place it in the background image, it ﬁrst ﬁnds the right place then masks the image and places it in the background, and then corrects the color and light also improves the image by a model.
-        - title: <b> Features </b>
-          contents:
-            - Depth Estimation
-            - Image brightness correction & Color correction models
-            - Object detection models to ﬁnd humans and other objects in the Image.
-            - Image Perspective calculation
-            - Image blending
-
-    - title: OCR
-      institution:
-      year: 2021
-      description:
-        - Optical Character Recognition on German administrative forms.
-        - title: <b> Features </b>
-          contents:
-            - Use tesseract and self-trained text recognition neural network.
-            - Use Clustering algorithms to ﬁnd lines.
-            - Use OpenCV and Image processing methods to ﬁnd information blocks.
+            <span class="bubble" style="border-radius: 5px"> Managing Shared Memory in Python </span>,
+            <span class="bubble" style="border-radius: 5px"> Implementing API with FastAPI </span>,
+            <span class="bubble" style="border-radius: 5px"> Data Transferring with SocketIO </span>,
+            <span class="bubble" style="border-radius: 5px"> Task Queuing and Management with Celery </span>,
+            <span class="bubble" style="border-radius: 5px"> Image and Video Processing with OpenCV </span>,
+            <span class="bubble" style="border-radius: 5px"> Video Streaming and Create Pipeline with Gstreamer </span>,
+            <span class="bubble" style="border-radius: 5px"> Deep Neural Networks Implementation with PyTorch </span>,
+            <span class="bubble" style="border-radius: 5px"> Docker Container for DevOps </span>,
+            <span class="bubble" style="border-radius: 5px"> Version Controling with Git </span>
 
 - title: Projects
   type: time_table
