@@ -108,16 +108,16 @@
     - value: Pytorch, Scikit-Learn
     - name: Misc.
     - value: >
-            <span style="background-color: #E8E1A1; border-radius: 5px"> Multi Processing and Threading Programming </span>,
-            <span style="background-color: #E8E1A1; border-radius: 5px"> Managing Shared Memory in Python </span>,
-            <span style="background-color: #E8E1A1; border-radius: 5px"> Implementing API with FastAPI </span>,
-            <span style="background-color: #E8E1A1; border-radius: 5px"> Data Transferring with SocketIO </span>,
-            <span style="background-color: #E8E1A1; border-radius: 5px"> Task Queuing and Management with Celery </span>,
-            <span style="background-color: #E8E1A1; border-radius: 5px"> Image and Video Processing with OpenCV </span>,
-            <span style="background-color: #E8E1A1; border-radius: 5px"> Video Streaming and Create Pipeline with Gstreamer </span>,
-            <span style="background-color: #E8E1A1; border-radius: 5px"> Deep Neural Networks Implementation with PyTorch </span>,
-            <span style="background-color: #E8E1A1; border-radius: 5px"> Docker Container for DevOps </span>,
-            <span style="background-color: #E8E1A1; border-radius: 5px"> Version Controling with Git </span>
+            <span class="bubble" style="border-radius: 5px"> Multi Processing and Threading Programming </span>,
+            <span class="bubble" style="border-radius: 5px"> Managing Shared Memory in Python </span>,
+            <span class="bubble" style="border-radius: 5px"> Implementing API with FastAPI </span>,
+            <span class="bubble" style="border-radius: 5px"> Data Transferring with SocketIO </span>,
+            <span class="bubble" style="border-radius: 5px"> Task Queuing and Management with Celery </span>,
+            <span class="bubble" style="border-radius: 5px"> Image and Video Processing with OpenCV </span>,
+            <span class="bubble" style="border-radius: 5px"> Video Streaming and Create Pipeline with Gstreamer </span>,
+            <span class="bubble" style="border-radius: 5px"> Deep Neural Networks Implementation with PyTorch </span>,
+            <span class="bubble" style="border-radius: 5px"> Docker Container for DevOps </span>,
+            <span class="bubble" style="border-radius: 5px"> Version Controling with Git </span>
 
 - title: Projects
   type: time_table
