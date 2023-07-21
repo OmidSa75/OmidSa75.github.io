@@ -7,5 +7,5 @@ description: This is a description of the page. You can modify it in '_pages/cv.
 toc:
   sidebar: left
 nav_order: 4
-cv_pdf: OmidSadeghnezhad.pdf
+cv_pdf: MyCV.pdf
 ---
