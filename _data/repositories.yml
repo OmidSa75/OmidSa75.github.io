@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - OmidSa75
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - OmidSa75/Warp_Transformation
+  - OmidSa75/Checkers_game_with_ML
+  - OmidSa75/SOS
+  - OmidSa75/Genetic_Algorithm
+  - OmidSa75/CeleryAI
+  - OmidSa75/Lipreading_using_Temporal_Convolutional_Networks
