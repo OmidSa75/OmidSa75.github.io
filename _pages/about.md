@@ -8,7 +8,7 @@ profile:
   align: right
   image: omid.jpg
   image_circular: false # crops the image to make it circular
-  address: >
+  more_info: >
     <p>AI MSc <a href='https://kntu.ac.ir/'> K.N.Toosi University </a> of Technology  </p>
     <p>Machine Learning Engineer at <a href='https://www.linkedin.com/company/parstech-ai/mycompany/'> ParsTech .Co </a> </p>
 
