@@ -11,14 +11,15 @@
 - title: Research Interests
   type: list
   contents:
-    - Generative Adversarial Networks and Diﬀusion models especially in computer vision and image processing ﬁelds
-    - Object Detection and Tracking models
-    - Image processing and computer vision
-    - Signal processing and analyzing
+    - Computer Vision and Video Processing
+    - High-Performance programming, Parallel Computing, and Multi-Processing
+    - Generative AI, Multimodal generative models
+    - Prompt engineering and management, Chain and agent architectures, Large Language Model (LLM) integration, Vector databases and semantic search, Retrieval-augmented generation (RAG)
   
 - title: Research Experience
   type: list
   contents:
+    - Retrieval-Augmented Generation - <em> 2024 </em>
     - Evolutionary Algorithms and implementing Symbiotic Organisms Search algorithm (SOS) - <em> 2023 </em>
     - GAN Developments survey and Analyze the Latent space. (Basic GAN, DCGAN ACGAN, WGAN, BigGAN, PGGAN, STYLEGAN, STYLEGAN2, StarGAN, SEAN) - <em> 2022 </em>
     - Theories of Multimodal deep learning - <em> 2021 </em>
@@ -50,74 +51,47 @@
       institution: Parstech.Co
       year:  2021-present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Optimized RAM and CPU of the camera streaming service by about 30%.
+        - Implemented a streaming service that can connect to 25 HD cameras with 12 cores CPU and 2.5 GB RAM to proceed 20 frames per second.
+        - Integrated a system for detecting personal protective equipment with 4 cameras capable of 5 categories.
+        - Developed a task-oriented framework to deal with ML models and pipelines in the production environments.
+        - Dockerized 3 AI and 5 Backend services to run reliably and securely in any infrastructure.
+        - Trained 5 of my co-workers to lead the different product services. 
+
     - title: Machine Learning Engineer
       institution: TaraTech.Co
       year: 2020-2021
       description:
-        - Description 1.
-        - Description 2.
+        - Designed a pipeline containing 5 ML models (object detection, layout composition, pose detection, depth estimation, and image blending) for human localization on the background image.
+        - Trained an ACGAN model on the heart disease dataset to augment the data which achieved 70% accuracy in generating fake data.
 
     - title: Internship
       institution: Telecommunication Company of Iran
       year: 2019-2020
 
-
-# - title: Open Source Projects
-#   type: time_table
-#   contents:
-#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-#       year: 2015-now
-#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-# - title: Honors and Awards
-#   type: time_table
-#   contents:
-#     - year: 1921
-#       items: 
-#         - Nobel Prize in Physics 
-#         - Matteucci Medal
-#     - year: 2029
-#       items: 
-#         - Max Planck Medal
-
-# - title: Academic Interests
-#   type: nested_list
-#   contents:
-#     - title: Topic 1.
-#       items: 
-#         - Description 1.
-#         - Description 2.
-#     - title: Topic 2.
-#       items:
-#         - Description 1.
-#         - Description 2.
 - title: Skills
   type: map
   contents:
     - name: Coding
     - value:   Python, sql, C, C++, LATEX
     - name: Databases
-    - value: MYSQL, SQlite, Redis
+    - value: MYSQL, SQlite, Redis, ElasticSearch
     - name : ML Frameworks
-    - value: Pytorch, Scikit-Learn
+    - value: Pytorch, Scikit-Learn, Ray, LangChain
+    - name: DevOps & Tools
+    - value: Docker, Git, FastAPI, Celery
+    - name: Computer Vision
+    - value: GStreamer, OpenCV
     - name: Misc.
     - value: >
             <span class="bubble" style="border-radius: 5px"> Multi Processing and Threading Programming </span>,
-            <span class="bubble" style="border-radius: 5px"> Managing Shared Memory in Python </span>,
-            <span class="bubble" style="border-radius: 5px"> Implementing API with FastAPI </span>,
-            <span class="bubble" style="border-radius: 5px"> Data Transferring with SocketIO </span>,
-            <span class="bubble" style="border-radius: 5px"> Task Queuing and Management with Celery </span>,
-            <span class="bubble" style="border-radius: 5px"> Image and Video Processing with OpenCV </span>,
-            <span class="bubble" style="border-radius: 5px"> Video Streaming and Create Pipeline with Gstreamer </span>,
-            <span class="bubble" style="border-radius: 5px"> Deep Neural Networks Implementation with PyTorch </span>,
-            <span class="bubble" style="border-radius: 5px"> Docker Container for DevOps </span>,
-            <span class="bubble" style="border-radius: 5px"> Version Controling with Git </span>
+            <span class="bubble" style="border-radius: 5px"> Managing Shared Memory </span>,
+            <span class="bubble" style="border-radius: 5px"> Implementing API </span>,
+            <span class="bubble" style="border-radius: 5px"> Task Queuing and Management </span>,
+            <span class="bubble" style="border-radius: 5px"> Image and Video Processing </span>,
+            <span class="bubble" style="border-radius: 5px"> Deep Neural Networks Implementation </span>,
+            <span class="bubble" style="border-radius: 5px"> Containerizing </span>,
+            <span class="bubble" style="border-radius: 5px"> Version Controling </span>
 
 - title: Projects
   type: time_table
