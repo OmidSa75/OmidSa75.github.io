@@ -12,14 +12,15 @@
 - title: Research Interests
   type: list
   contents:
-    - Generative Adversarial Networks and Diﬀusion models especially in computer vision and image processing ﬁelds
-    - Object Detection and Tracking models
-    - Image processing and computer vision
-    - Signal processing and analyzing
+    - Computer Vision and Video Processing
+    - High-Performance programming, Parallel Computing, and Multi-Processing
+    - Generative AI, Multimodal generative models
+    - Prompt engineering and management, Chain and agent architectures, Large Language Model (LLM) integration, Vector databases and semantic search, Retrieval-augmented generation (RAG)
   
 - title: Research Experience
   type: list
   contents:
+    - Retrieval-Augmented Generation - <em> 2024 </em>
     - Evolutionary Algorithms and implementing Symbiotic Organisms Search algorithm (SOS) - <em> 2023 </em>
     - GAN Developments survey and Analyze the Latent space. (Basic GAN, DCGAN ACGAN, WGAN, BigGAN, PGGAN, STYLEGAN, STYLEGAN2, StarGAN, SEAN) - <em> 2022 </em>
     - Theories of Multimodal deep learning - <em> 2021 </em>
@@ -31,14 +32,15 @@
 - title: Research Interests
   type: list
   contents:
-    - Generative Adversarial Networks and Diﬀusion models especially in computer vision and image processing ﬁelds
-    - Object Detection and Tracking models
-    - Image processing and computer vision
-    - Signal processing and analyzing
+    - Computer Vision and Video Processing
+    - High-Performance programming, Parallel Computing, and Multi-Processing
+    - Generative AI, Multimodal generative models
+    - Prompt engineering and management, Chain and agent architectures, Large Language Model (LLM) integration, Vector databases and semantic search, Retrieval-augmented generation (RAG)
   
 - title: Research Experience
   type: list
   contents:
+    - Retrieval-Augmented Generation - <em> 2024 </em>
     - Evolutionary Algorithms and implementing Symbiotic Organisms Search algorithm (SOS) - <em> 2023 </em>
     - GAN Developments survey and Analyze the Latent space. (Basic GAN, DCGAN ACGAN, WGAN, BigGAN, PGGAN, STYLEGAN, STYLEGAN2, StarGAN, SEAN) - <em> 2022 </em>
     - Theories of Multimodal deep learning - <em> 2021 </em>
@@ -75,7 +77,7 @@
         - Integrated a system for detecting personal protective equipment with 4 cameras capable of 5 categories.
         - Developed a task-oriented framework to deal with ML models and pipelines in the production environments.
         - Dockerized 3 AI and 5 Backend services to run reliably and securely in any infrastructure.
-        - Trained 5 of my co-workers to lead the different product services.
+        - Trained 5 of my co-workers to lead the different product services. 
 
     - title: Machine Learning Engineer
       institution: TaraTech.Co
@@ -104,15 +106,13 @@
     - name: Misc.
     - value: >
             <span class="bubble" style="border-radius: 5px"> Multi Processing and Threading Programming </span>,
-            <span class="bubble" style="border-radius: 5px"> Managing Shared Memory in Python </span>,
-            <span class="bubble" style="border-radius: 5px"> Implementing API with FastAPI </span>,
-            <span class="bubble" style="border-radius: 5px"> Data Transferring with SocketIO </span>,
-            <span class="bubble" style="border-radius: 5px"> Task Queuing and Management with Celery </span>,
-            <span class="bubble" style="border-radius: 5px"> Image and Video Processing with OpenCV </span>,
-            <span class="bubble" style="border-radius: 5px"> Video Streaming and Create Pipeline with Gstreamer </span>,
-            <span class="bubble" style="border-radius: 5px"> Deep Neural Networks Implementation with PyTorch </span>,
-            <span class="bubble" style="border-radius: 5px"> Docker Container for DevOps </span>,
-            <span class="bubble" style="border-radius: 5px"> Version Controling with Git </span>
+            <span class="bubble" style="border-radius: 5px"> Managing Shared Memory </span>,
+            <span class="bubble" style="border-radius: 5px"> Implementing API </span>,
+            <span class="bubble" style="border-radius: 5px"> Task Queuing and Management </span>,
+            <span class="bubble" style="border-radius: 5px"> Image and Video Processing </span>,
+            <span class="bubble" style="border-radius: 5px"> Deep Neural Networks Implementation </span>,
+            <span class="bubble" style="border-radius: 5px"> Containerizing </span>,
+            <span class="bubble" style="border-radius: 5px"> Version Controling </span>
 
 - title: Projects
   type: time_table
