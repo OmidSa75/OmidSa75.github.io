@@ -197,12 +197,11 @@ collections:
     output: true
     permalink: /projects/:path/
   night_step:
-    blog_name: قدمِ شب
-    blog_description: blah blah  blah
-    # defaults:
-      # layout: post
+    defaults: 
+      layout: post
     output: true
-    permalink: /:collection/:year/:title
+    # permalink: /night_step/:year/:title/
+    permalink: /:collection/:path
 
 announcements:
   enabled: true
