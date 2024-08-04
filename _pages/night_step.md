@@ -92,7 +92,6 @@ pagination:
     </li>
 
     {% endfor %}
-
   </ul>
 
   {%- if page.pagination.enabled -%}
