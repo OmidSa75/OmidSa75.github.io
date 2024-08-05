@@ -178,7 +178,7 @@ collections:
       layout: post
     output: true
     # permalink: /night_step/:year/:title/
-    permalink: /:collection/:path
+    permalink: /:collection/:year/:title
 
 announcements:
   enabled: true
