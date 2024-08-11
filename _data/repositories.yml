@@ -1,14 +1,12 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - OmidSa75
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - OmidSa75/Warp_Transformation
+  - OmidSa75/Checkers_game_with_ML
+  - OmidSa75/SOS
+  - OmidSa75/Genetic_Algorithm
+  - OmidSa75/CeleryAI
+  - OmidSa75/Lipreading_using_Temporal_Convolutional_Networks

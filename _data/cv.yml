@@ -2,96 +2,183 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Omid Sadeghnezhad
     - name: Date of Birth
-      value: 14th March 1879
+      value: 2nd February 1997
     - name: Languages
-      value: English, German
+      value: Reading, writing and speaking competencies for English, Native Persian.
+
+- title: Research Interests
+  type: list
+  contents:
+    - Computer Vision and Video Processing
+    - High-Performance programming, Parallel Computing, and Multi-Processing
+    - Generative AI, Multimodal generative models
+    - Prompt engineering and management, Chain and agent architectures, Large Language Model (LLM) integration, Vector databases and semantic search, Retrieval-augmented generation (RAG)
+
+- title: Research Experience
+  type: list
+  contents:
+    - Retrieval-Augmented Generation - <em> 2024 </em>
+    - Evolutionary Algorithms and implementing Symbiotic Organisms Search algorithm (SOS) - <em> 2023 </em>
+    - GAN Developments survey and Analyze the Latent space. (Basic GAN, DCGAN ACGAN, WGAN, BigGAN, PGGAN, STYLEGAN, STYLEGAN2, StarGAN, SEAN) - <em> 2022 </em>
+    - Theories of Multimodal deep learning - <em> 2021 </em>
+    - Clothes virtual try-on models survey. (ACGPN, SwapNet, CP-VTON-PLUS) - <em> 2020 </em>
+    - Image harmonization and blending methods (Dovenet, DeepImageBlending), Brightness transfer (global and local transfer), color transfer methods (mean-std transfer, Lab mean transfer, and pdf transform), and color constancy with image to image translation (pix2pix, CycleGAN, and contrastive-unpaired-translation) - <em> 2020 </em>
+    - Image depth extractions (monoDepth, Pydnet) and salient object detection models (Basnet, U2Net, PoolNet, CPD) - <em> 2020 </em>
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master
+      institution: K. N. Toosi University of Technology
+      year: 2020-2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Artificial Intelligence.
+        - title: Seminar
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - Generative Adversarial Networks (GAN) Survey
+    - title: Bachelor
+      institution: Shahrood University of Technology
+      year: 2015-2020
       description:
-        - Description 1.
-        - Description 2.
+        - Electrical and Electronics Engineering
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Machine Learning Engineer
+      institution: Parstech.Co
+      year:  2021-present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Optimized RAM and CPU of the camera streaming service by about 30%.
+        - Implemented a streaming service that can connect to 25 HD cameras with 12 cores CPU and 2.5 GB RAM to proceed 20 frames per second.
+        - Integrated a system for detecting personal protective equipment with 4 cameras capable of 5 categories.
+        - Developed a task-oriented framework to deal with ML models and pipelines in the production environments.
+        - Dockerized 3 AI and 5 Backend services to run reliably and securely in any infrastructure.
+        - Trained 5 of my co-workers to lead the different product services.
+
+    - title: Machine Learning Engineer
+      institution: TaraTech.Co
+      year: 2020-2021
+      description:
+        - Designed a pipeline containing 5 ML models (object detection, layout composition, pose detection, depth estimation, and image blending) for human localization on the background image.
+        - Trained an ACGAN model on the heart disease dataset to augment the data which achieved 70% accuracy in generating fake data.
+
+    - title: Internship
+      institution: Telecommunication Company of Iran
+      year: 2019-2020
+
+- title: Skills
+  type: map
+  contents:
+    - name: Coding
+    - value:   Python, sql, C, C++, LATEX
+    - name: Databases
+    - value: MYSQL, SQlite, Redis, ElasticSearch
+    - name : ML Frameworks
+    - value: Pytorch, Scikit-Learn, Ray, LangChain
+    - name: DevOps & Tools
+    - value: Docker, Git, FastAPI, Celery
+    - name: Computer Vision
+    - value: GStreamer, OpenCV
+    - name: Misc.
+    - value: >
+            <span class="bubble" style="border-radius: 5px"> Multi Processing and Threading Programming </span>,
+            <span class="bubble" style="border-radius: 5px"> Managing Shared Memory </span>,
+            <span class="bubble" style="border-radius: 5px"> Implementing API </span>,
+            <span class="bubble" style="border-radius: 5px"> Task Queuing and Management </span>,
+            <span class="bubble" style="border-radius: 5px"> Image and Video Processing </span>,
+            <span class="bubble" style="border-radius: 5px"> Deep Neural Networks Implementation </span>,
+            <span class="bubble" style="border-radius: 5px"> Containerizing </span>,
+            <span class="bubble" style="border-radius: 5px"> Version Controling </span>
+
+- title: Projects
+  type: time_table
+  contents:
+    - title: Parstech Video Intelligent Assistant
+      institution: <em> Intelligent Security Assistant </em>
+      year: 2022-present
+      description:
+        - AI assistance to process and analyze videos with modules like human detection, face recognition, and license plate recognition. I deeply worked on human detection and restriction area application, Camera handling and streaming, DevOps, and microservices of this application.
+        - title: <b> Features </b>
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+            - Human detection and tracking
+            - Video Processing with OpenCV
+            - FastAPI implementation for APIs
+            - Gstreamer and OpenCV cores for the Camera management service
+            - Task queueing and workﬂow management with Celery
+            - Containerized services
+            - In-Memory data transfer with Redis and python shared memory
+            - Multi-Processing and Multi-Threading features implemented
+
+    - title: LipReading model on Persian Dataset
+      institution:
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Train a LipReading model on the Persian dataset.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Personal Protective Equipment (PPE)
+      institution: Implementation of a system to identify personal safety equipment
+      year: 2021
       description:
+        - A program to identify workers’ safety equipment in workshop and construction environments, such as gloves, helmets, glasses, masks, safety vests, warning capabilities for people who enter prohibited areas, ﬁre detection, and identiﬁcation of work tools.
+        - title: <b> Features </b>
+          contents:
+            - Human detection and tracking
+            - Pose estimation to check human body status
+            - Body part localizer for head, hands, and chest
+            - Equipment classiﬁers models
+            - Pipeline implementation to estimate human fall
+            - Faster functions with numba jit compiler
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Pressure Ulcer
+      institution:
+      year: 2021
+      description:
+        - Analysis of pressure sensor data of hospital beds for prediction and diagnosis of bed sores.
+        - title: <b> Features </b>
+          contents:
+            - Body Segmentation Models.
+            - Pose estimation model for pressure sensor data
+            - Video processing with OpenCV
+            - Signal Capturing from human poses
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Cardiac Medical Data Augmentation
+      institution:
+      year: 2021
+      description:
+        - Train ACGAN on real Cardiac Medical Data in order to generate fake data for augmentation.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+    - title: Human localization
+      institution:
+      year: 2021
+      description:
+        - In two categories of foreground and background images, it takes a personal image from the foreground, and in order to place it in the background image, it ﬁrst ﬁnds the right place then masks the image and places it in the background, and then corrects the color and light also improves the image by a model.
+        - title: <b> Features </b>
+          contents:
+            - Depth Estimation
+            - Image brightness correction & Color correction models
+            - Object detection models to ﬁnd humans and other objects in the Image.
+            - Image Perspective calculation
+            - Image blending
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: OCR
+      institution:
+      year: 2021
+      description:
+        - Optical Character Recognition on German administrative forms.
+        - title: <b> Features </b>
+          contents:
+            - Use tesseract and self-trained text recognition neural network.
+            - Use Clustering algorithms to ﬁnd lines.
+            - Use OpenCV and Image processing methods to ﬁnd information blocks.
 
-- title: Other Interests
+- title: Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Guitar
+    - Video Game
+    - Ping Pong
+    - Natrue Lover
+    - Psychology & Philosophy
