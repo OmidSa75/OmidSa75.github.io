@@ -92,6 +92,7 @@ html[data-theme="dark"] {
   --global-distill-app-color: #{$grey-color-light};
   --global-divider-color: #424246;
   --global-card-bg-color: #{$grey-900};
+  --global-bubble-bg-color: #85827e;
   --global-back-to-top-bg-color: rgba(
     #{color.channel($white-color, "red", $space: rgb)},
     #{color.channel($white-color, "green", $space: rgb)},
