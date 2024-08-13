@@ -194,10 +194,6 @@ collections:
     output: true
     permalink: /projects/:path/
   night_step:
-    blog_name: قدمِ شب
-    blog_description: blah blah  blah
-    # defaults:
-      # layout: post
     output: true
     permalink: /:collection/:year/:title
 
@@ -630,8 +626,8 @@ third_party_libraries:
 # -----------------------------------------------------------------------------
 
 jekyll_get_json:
-  - data: resume
-    json: assets/json/resume.json # it can also be an url
+  # - data: resume
+    # json: assets/json/resume.json # it can also be an url
 jsonresume:
   - basics
   - work
