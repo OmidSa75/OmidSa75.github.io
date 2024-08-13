@@ -6,6 +6,7 @@ description: خلاصه‌ای از برنامه‌ریزی به روش بولت
 tags: planning 
 giscus_comments: true
 categories: sample-posts
+related_posts: false 
 ---
 
 <html lang="fa" dir="rtl">
