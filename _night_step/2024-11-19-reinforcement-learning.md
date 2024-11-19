@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: یادگیری تقویتی
-date:   2024-11-19 20:58:16
+date:   2024-11-17 21:40:16
 description: یادگیری تقویتی و روند تغییرات و یادگیری انسان
 tags: thoughts
 giscus_comments: true
