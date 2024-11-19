@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Shared Memory in python
-date: 2024-08-14 00:30:00-0400
+date: 2024-09-05 00:30:00-0400
 description: Different types of shared memory in python which are provided by multiprocessing module.
 tags: programming
 categories: sample-posts
