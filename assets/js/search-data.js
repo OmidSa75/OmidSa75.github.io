@@ -108,17 +108,17 @@ ninja.data = [{
           title: 'بولت ژورنال',
           description: "خلاصه‌ای از برنامه‌ریزی به روش بولت ژورنال",
           section: "Night_step",handler: () => {
-              window.location.href = "/night_step/2024-08-04-bullet-journal";
+              window.location.href = "/night_step/2024/bullet-journal";
             },},{id: "night_step-یک-روز-باید-انجامش-بدم",
           title: 'یک روز باید انجامش بدم',
           description: "موسیقی پیوند دهنده‌ی عمیق احساسات آدمی",
           section: "Night_step",handler: () => {
-              window.location.href = "/night_step/2024-08-13-one-day-I-will-do";
+              window.location.href = "/night_step/2024/one-day-I-will-do";
             },},{id: "night_step-یادگیری-تقویتی",
           title: 'یادگیری تقویتی',
           description: "یادگیری تقویتی و روند تغییرات و یادگیری انسان",
           section: "Night_step",handler: () => {
-              window.location.href = "/night_step/2024-11-19-reinforcement-learning";
+              window.location.href = "/night_step/2024/reinforcement-learning";
             },},{id: "projects-project-4",
           title: 'project 4',
           description: "another without an image",
@@ -159,9 +159,9 @@ ninja.data = [{
           description: "Pipeline to Estimate the size of the green iron pellet",
           section: "Projects",handler: () => {
               window.location.href = "/projects/green-pellet-detection/";
-            },},{id: "projects-parstech-video-intelligent-assistant",
-          title: 'Parstech Video Intelligent Assistant',
-          description: "Integrated AI assistance to process and analyze videos with modules like human detection, face recognition, and license plate recognition.",
+            },},{id: "projects-intelligent-video-surveillance-assistant",
+          title: 'Intelligent Video Surveillance Assistant',
+          description: "An AI-powered computer vision system designed to enhance traditional CCTV networks with intelligent video analytics.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/parstech_video_intelligent_assistant/";
             },},{
