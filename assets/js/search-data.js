@@ -44,29 +44,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "post-a-post-with-plotly-js",
-        
-          title: "a post with plotly.js",
-        
-        description: "this is what included plotly.js code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/plotly/";
-          
-        },
-      },{id: "post-a-post-with-image-galleries",
-        
-          title: "a post with image galleries",
-        
-        description: "this is what included image galleries could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/photo-gallery/";
-          
-        },
-      },{id: "post-shared-memory-in-python",
+        },{id: "post-shared-memory-in-python",
         
           title: "Shared Memory in python",
         
@@ -119,6 +97,11 @@ ninja.data = [{
           description: "یادگیری تقویتی و روند تغییرات و یادگیری انسان",
           section: "Night_step",handler: () => {
               window.location.href = "/night_step/2024/reinforcement-learning";
+            },},{id: "night_step-زندگی-در-پارستک",
+          title: 'زندگی در پارستک',
+          description: "داستان زندگی من از ورود به شرکت پارستک تا خارج شدن از اون",
+          section: "Night_step",handler: () => {
+              window.location.href = "/night_step/2026/living-in-parstech";
             },},{id: "projects-project-4",
           title: 'project 4',
           description: "another without an image",
