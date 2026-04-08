@@ -19,7 +19,8 @@
 - title: Research Experience
   type: list
   contents:
-    - Retrieval-Augmented Generation - <em> 2024 </em>
+    - PhotoGrammetry & Voice to Text Generation - <em> 2025 </em>
+    - Visual & Texual Retrieval-Augmented Generation - <em> 2024 </em>
     - Evolutionary Algorithms and implementing Symbiotic Organisms Search algorithm (SOS) - <em> 2023 </em>
     - GAN Developments survey and Analyze the Latent space. (Basic GAN, DCGAN ACGAN, WGAN, BigGAN, PGGAN, STYLEGAN, STYLEGAN2, StarGAN, SEAN) - <em> 2022 </em>
     - Theories of Multimodal deep learning - <em> 2021 </em>
@@ -47,9 +48,20 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Team Lead & Python Developer
+      institution: Parstech.Co
+      year: 2023-2025
+      description:
+        - Prototyped 4 services that were responsible for photogrammetric processing on drone images.
+        - Architectured a photo aesthetic assessment service which was capable of visual RAG to analyse over 60 parameters with gathered specialized dataset.
+        - Introduced and programmed a graph-based workflow to create a user-defined dialogue flow for a personalized chatbot that can be customized with LLMs and RAGs.
+        - Leveraged asynchronous I/O to enhance server capacity and reduce response times.
+        - Improved multi-processing, multi-threading, and asynchronous programming skills of 12 of my coworkers.
+
+
     - title: Machine Learning Engineer
       institution: Parstech.Co
-      year:  2021-present
+      year:  2021-2023
       description:
         - Optimized RAM and CPU of the camera streaming service by about 30%.
         - Implemented a streaming service that can connect to 25 HD cameras with 12 cores CPU and 2.5 GB RAM to proceed 20 frames per second.
@@ -96,9 +108,34 @@
 - title: Projects
   type: time_table
   contents:
+    - title: PhotoGear
+      institution: 
+      year: 2025-2026
+      description:
+        - Orthomosaic photo generation from drone images with a pipeline of radiometric calibration, Structure from Motion (SfM), and Orthomosaic Generation.
+        - title: <b> Features </b>
+          contents: 
+            - NDVI calculation and vegetation analysis
+            - Structure from Motion (SfM) for 3D reconstruction with COLMAP and OpenSFM
+            - Orthomosaic Generation with GDAL and PDAL
+            - API Gateway and Queue management with FastAPI for data processing and task management
+    
+    - title: Photo Aesthetic Assessment
+      institution: 
+      year: 2024-2025
+      description:
+        - A platform to assess photo aesthetic parameters with LLM combined with VRAG and some computer vision pipelines. 
+        - title: <b> Features </b>
+          contents: 
+            - Visual-RAG to retrieve photo and the context with Langchain
+            - MongoDB to search on embedding vectors
+            - Async FastAPI endpoints
+            - Clean architecture Design
+            - Dependency injection and wiring with Lagom
+
     - title: Parstech Video Intelligent Assistant
-      institution: <em> Intelligent Security Assistant </em>
-      year: 2022-present
+      institution: 
+      year: 2022-2025
       description: 
         - AI assistance to process and analyze videos with modules like human detection, face recognition, and license plate recognition. I deeply worked on human detection and restriction area application, Camera handling and streaming, DevOps, and microservices of this application.
         - title: <b> Features </b>
@@ -119,7 +156,7 @@
         - Train a LipReading model on the Persian dataset.
     
     - title: Personal Protective Equipment (PPE)
-      institution: Implementation of a system to identify personal safety equipment
+      institution: 
       year: 2021
       description: 
         - A program to identify workers’ safety equipment in workshop and construction environments, such as gloves, helmets, glasses, masks, safety vests, warning capabilities for people who enter prohibited areas, ﬁre detection, and identiﬁcation of work tools.
