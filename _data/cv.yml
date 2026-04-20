@@ -25,7 +25,7 @@
     - GAN Developments survey and Analyze the Latent space. (Basic GAN, DCGAN ACGAN, WGAN, BigGAN, PGGAN, STYLEGAN, STYLEGAN2, StarGAN, SEAN) - <em> 2022 </em>
     - Theories of Multimodal deep learning - <em> 2021 </em>
     - Clothes virtual try-on models survey. (ACGPN, SwapNet, CP-VTON-PLUS) - <em> 2020 </em>
-    - Image harmonization and blending methods (Dovenet, DeepImageBlending), Brightness transfer (global and local transfer), color transfer methods (mean-std transfer, Lab mean transfer, and pdf transform), and color constancy with image to image translation (pix2pix, CycleGAN, and contrastive-unpaired-translation) - <em> 2020 </em>
+    - Image harmonization and blending methods (Dovenet, DeepImageBlending), Brightness transfer (global and local transfer), color transfer methods (mean-std transfer, Lab mean transfer, and pdf transform), and color constancy with image-to-image translation (pix2pix, CycleGAN, and contrastive-unpaired-translation) - <em> 2020 </em>
     - Image depth extractions (monoDepth, Pydnet) and salient object detection models (Basnet, U2Net, PoolNet, CPD) - <em> 2020 </em>
 
 - title: Education
@@ -52,8 +52,8 @@
       institution: Parstech.Co
       year: 2023-2025
       description:
-        - Prototyped 4 services that were responsible for photogrammetric processing on drone images.
-        - Architectured a photo aesthetic assessment service which was capable of visual RAG to analyse over 60 parameters with gathered specialized dataset.
+        - Prototyped 4 services, including calibration, SFM, and orthomosaic generation, that were responsible for photogrammetric processing on drone images.
+        - Architected a photo aesthetic assessment service capable of visual RAG to analyse over 60 parameters using a specialized dataset. 
         - Introduced and programmed a graph-based workflow to create a user-defined dialogue flow for a personalized chatbot that can be customized with LLMs and RAGs.
         - Leveraged asynchronous I/O to enhance server capacity and reduce response times.
         - Improved multi-processing, multi-threading, and asynchronous programming skills of 12 of my coworkers.
@@ -87,13 +87,13 @@
     - name: Coding
     - value:   Python, sql, C, C++, LATEX
     - name: Databases
-    - value: MYSQL, SQlite, Redis, ElasticSearch
+    - value: MYSQL, SQlite, Redis, MongoDB, Postgresql, Vector DB
     - name : ML Frameworks
-    - value: Pytorch, Scikit-Learn, Ray, LangChain
+    - value: Pytorch, Scikit-Learn, Ray, LangChain, Agentic Frameworks
     - name: DevOps & Tools
-    - value: Docker, Git, FastAPI, Celery
+    - value: Docker, Git, FastAPI, Celery, PySide6
     - name: Computer Vision
-    - value: GStreamer, OpenCV
+    - value: GStreamer, OpenCV, Kornia, COLMAP
     - name: Misc.
     - value: >
             <span class="bubble" style="border-radius: 5px"> Multi Processing and Threading Programming </span>,
@@ -103,7 +103,10 @@
             <span class="bubble" style="border-radius: 5px"> Image and Video Processing </span>,
             <span class="bubble" style="border-radius: 5px"> Deep Neural Networks Implementation </span>,
             <span class="bubble" style="border-radius: 5px"> Containerizing </span>,
-            <span class="bubble" style="border-radius: 5px"> Version Controling </span>
+            <span class="bubble" style="border-radius: 5px"> Version Controling </span>, 
+            <span class="bubble" style="border-radius: 5px"> Prompt Engineering </span>, 
+            <span class="bubble" style="border-radius: 5px"> RAG Pipelines </span>, 
+            <span class="bubble" style="border-radius: 5px"> Model Context Protocol (MCP) </span>, 
 
 - title: Projects
   type: time_table
